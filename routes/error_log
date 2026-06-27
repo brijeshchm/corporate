@@ -1,0 +1,4 @@
+[25-Mar-2025 23:50:51 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home2/estivfbw/corporatesacademy.com/routes/web.php:24
+Stack trace:
+#0 {main}
+  thrown in /home2/estivfbw/corporatesacademy.com/routes/web.php on line 24

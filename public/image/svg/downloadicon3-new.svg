@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 24.0.2, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="50px" height="48.2px" viewBox="0 0 50 48.2" style="enable-background:new 0 0 50 48.2;" xml:space="preserve">
+<style type="text/css">
+	.st0{opacity:0.95;}
+	.st1{fill:url(#SVGID_1_);}
+	.st2{fill:url(#SVGID_2_);}
+	.st3{fill:#FABE2C;}
+	.st4{fill:#FFFFFF;}
+	.st5{fill:#F4F4F4;}
+</style>
+<g class="st0">
+	<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="0" y1="21.2" x2="45.6" y2="21.2">
+		<stop  offset="0" style="stop-color:#FA7042"/>
+		<stop  offset="1" style="stop-color:#F4A61E"/>
+	</linearGradient>
+	<path class="st1" d="M45.6,9.1v4c0,0.8-0.7,1.5-1.5,1.5H9.3c-0.3,0-0.5,0.2-0.5,0.5v25.8c0,0.8-0.7,1.5-1.5,1.5H3.4
+		C1.5,42.4,0,40.9,0,39V3.4C0,1.5,1.5,0,3.4,0h16c1.3,0,2.5,0.8,3.1,2l1.6,3.4c0.1,0.2,0.3,0.3,0.4,0.3h17.7
+		C44.1,5.7,45.6,7.2,45.6,9.1L45.6,9.1z"/>
+</g>
+<g>
+	<g>
+		<linearGradient id="SVGID_2_" gradientUnits="userSpaceOnUse" x1="5.9" y1="29.9" x2="50" y2="29.9">
+			<stop  offset="0" style="stop-color:#F4A61E"/>
+			<stop  offset="1" style="stop-color:#FA7042"/>
+		</linearGradient>
+		<path class="st2" d="M50,15v29.8c0,1.9-1.5,3.4-3.4,3.4H9.3c-1.9,0-3.4-1.5-3.4-3.4V15c0-1.9,1.5-3.4,3.4-3.4h37.3
+			C48.5,11.6,50,13.1,50,15L50,15z"/>
+	</g>
+</g>
+<path class="st3" d="M35.9,29l-7,7l0,0c-0.2,0.2-0.6,0.4-1,0.4V17.5c0.8,0,1.5,0.7,1.5,1.5v12.5l4.5-4.5c0.6-0.6,1.5-0.6,2.1,0
+	S36.5,28.4,35.9,29z"/>
+<g>
+	<path class="st4" d="M39.9,37.6v3.3c0,0.8-0.7,1.5-1.5,1.5H17.5c-0.8,0-1.5-0.7-1.5-1.5v-3.3c0-0.8,0.7-1.5,1.5-1.5
+		s1.5,0.7,1.5,1.5v1.8h18v-1.8c0-0.8,0.7-1.5,1.5-1.5C39.2,36.1,39.9,36.8,39.9,37.6z"/>
+</g>
+<path class="st4" d="M35.9,26.9c-0.6-0.6-1.5-0.6-2.1,0l-4.5,4.5V18.9c0-0.8-0.7-1.5-1.5-1.5s-1.5,0.7-1.5,1.5v12.5L22,26.9
+	c-0.6-0.6-1.5-0.6-2.1,0s-0.6,1.5,0,2.1l7,7c0.6,0.6,1.5,0.6,2.1,0l0,0l7-7C36.5,28.4,36.5,27.5,35.9,26.9L35.9,26.9z"/>
+<g>
+	<path class="st5" d="M39.9,37.6v3.3c0,0.8-0.7,1.5-1.5,1.5H27.9v-2.9h9v-1.8c0-0.8,0.7-1.5,1.5-1.5C39.2,36.1,39.9,36.8,39.9,37.6z
+		"/>
+	<path class="st5" d="M35.9,29l-7,7l0,0c-0.2,0.2-0.6,0.4-1,0.4V17.5c0.8,0,1.5,0.7,1.5,1.5v12.5l4.5-4.5c0.6-0.6,1.5-0.6,2.1,0
+		S36.5,28.4,35.9,29z"/>
+</g>
+</svg>

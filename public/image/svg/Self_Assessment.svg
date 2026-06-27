@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 24.0.2, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 49.6 61.9" style="enable-background:new 0 0 49.6 61.9;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:url(#SVGID_1_);}
+	.st1{fill:url(#SVGID_2_);}
+	.st2{fill:url(#SVGID_3_);}
+	.st3{fill:url(#SVGID_4_);}
+</style>
+<g>
+	<g>
+		<g>
+			<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="14.0467" y1="13.805" x2="14.0467" y2="2.1224">
+				<stop  offset="0" style="stop-color:#E877AE"/>
+				<stop  offset="1" style="stop-color:#7C73F3"/>
+			</linearGradient>
+			<path class="st0" d="M19.9,8c0,3.2-2.6,5.8-5.8,5.8S8.2,11.2,8.2,8s2.6-5.8,5.8-5.8S19.9,4.7,19.9,8z"/>
+		</g>
+	</g>
+	<g>
+		<g>
+			<linearGradient id="SVGID_2_" gradientUnits="userSpaceOnUse" x1="14.1366" y1="59.741" x2="14.1366" y2="15.153">
+				<stop  offset="0" style="stop-color:#E877AE"/>
+				<stop  offset="1" style="stop-color:#7C73F3"/>
+			</linearGradient>
+			<path class="st1" d="M27,34.9V18.5c0-1.9-1.5-3.3-3.3-3.3h-6.1c-0.3,0-0.4,0.1-0.6,0.3l-2.8,2.8l-2.8-2.8
+				c-0.2-0.2-0.4-0.3-0.6-0.3H4.6c-1.9,0-3.3,1.5-3.3,3.3v16.4c0,1.9,1.5,3.3,3.3,3.3c0.5,0,1.1-0.2,1.5-0.4v18.3
+				c0,1.8,1.3,3.3,3,3.5c2,0.2,3.7-1.3,3.7-3.3V42.5c0-0.7,0.6-1.3,1.3-1.3c0.7,0,1.3,0.6,1.3,1.3v13.8c0,1.9,1.5,3.5,3.7,3.3
+				c1.7-0.2,3-1.7,3-3.5V37.8c0.4,0.3,1,0.4,1.5,0.4C25.5,38.2,27,36.7,27,34.9z M15,30.8h-1.8V29H15V30.8z M15,25.4h-1.8v-1.8H15
+				V25.4z"/>
+		</g>
+		<g>
+			<linearGradient id="SVGID_3_" gradientUnits="userSpaceOnUse" x1="44.5113" y1="25.3977" x2="44.5113" y2="18.9273">
+				<stop  offset="0" style="stop-color:#E877AE"/>
+				<stop  offset="1" style="stop-color:#7C73F3"/>
+			</linearGradient>
+			<polygon class="st2" points="41.3,18.9 41.3,25.4 47.7,25.4 			"/>
+		</g>
+		<g>
+			<linearGradient id="SVGID_4_" gradientUnits="userSpaceOnUse" x1="36.1089" y1="56.761" x2="36.1089" y2="18.3881">
+				<stop  offset="0" style="stop-color:#E877AE"/>
+				<stop  offset="1" style="stop-color:#7C73F3"/>
+			</linearGradient>
+			<path class="st3" d="M40.4,27.2c-0.5,0-0.9-0.4-0.9-0.9v-7.9H28.8v16.5c0,2.8-2.2,5-4.9,5.1c0,17.2,0,16.3,0,16.7h23.5
+				c0.4,0,0.9-0.4,0.9-0.9V27.2H40.4z M31.8,50H30v-1.8h1.8V50z M31.8,41.9H30v-1.8h1.8V41.9z M31.8,33.8H30V32h1.8V33.8z M43.9,50
+				h-9.8v-1.8h9.8C43.9,48.2,43.9,50,43.9,50z M43.9,41.9h-9.8v-1.8h9.8C43.9,40.1,43.9,41.9,43.9,41.9z M43.9,33.8h-9.8V32h9.8
+				C43.9,32,43.9,33.8,43.9,33.8z"/>
+		</g>
+	</g>
+</g>
+</svg>

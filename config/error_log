@@ -1,0 +1,76 @@
+[26-Dec-2024 23:48:17 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home1/techpeph/tech.techpratham.org/config/cache.php:18
+Stack trace:
+#0 {main}
+  thrown in /home1/techpeph/tech.techpratham.org/config/cache.php on line 18
+[26-Jan-2025 15:21:34 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home2/estivfbw/corporatesacademy.com/config/database.php:19
+Stack trace:
+#0 {main}
+  thrown in /home2/estivfbw/corporatesacademy.com/config/database.php on line 19
+[26-Jan-2025 15:21:36 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home2/estivfbw/corporatesacademy.com/config/app.php:16
+Stack trace:
+#0 {main}
+  thrown in /home2/estivfbw/corporatesacademy.com/config/app.php on line 16
+[26-Jan-2025 15:21:40 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home2/estivfbw/corporatesacademy.com/config/cache.php:18
+Stack trace:
+#0 {main}
+  thrown in /home2/estivfbw/corporatesacademy.com/config/cache.php on line 18
+[27-Jan-2025 11:00:11 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home2/estivfbw/corporatesacademy.com/config/database.php:19
+Stack trace:
+#0 {main}
+  thrown in /home2/estivfbw/corporatesacademy.com/config/database.php on line 19
+[27-Jan-2025 11:00:12 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home2/estivfbw/corporatesacademy.com/config/app.php:16
+Stack trace:
+#0 {main}
+  thrown in /home2/estivfbw/corporatesacademy.com/config/app.php on line 16
+[27-Jan-2025 11:00:13 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home2/estivfbw/corporatesacademy.com/config/cache.php:18
+Stack trace:
+#0 {main}
+  thrown in /home2/estivfbw/corporatesacademy.com/config/cache.php on line 18
+[19-Feb-2025 01:35:30 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home2/estivfbw/corporatesacademy.com/config/database.php:19
+Stack trace:
+#0 {main}
+  thrown in /home2/estivfbw/corporatesacademy.com/config/database.php on line 19
+[25-Mar-2025 23:50:49 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home2/estivfbw/corporatesacademy.com/config/app.php:16
+Stack trace:
+#0 {main}
+  thrown in /home2/estivfbw/corporatesacademy.com/config/app.php on line 16
+[25-Mar-2025 23:50:50 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home2/estivfbw/corporatesacademy.com/config/database.php:19
+Stack trace:
+#0 {main}
+  thrown in /home2/estivfbw/corporatesacademy.com/config/database.php on line 19
+[29-Mar-2025 01:26:21 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home2/estivfbw/corporatesacademy.com/config/app.php:16
+Stack trace:
+#0 {main}
+  thrown in /home2/estivfbw/corporatesacademy.com/config/app.php on line 16
+[29-Mar-2025 20:17:10 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home2/estivfbw/corporatesacademy.com/config/app.php:16
+Stack trace:
+#0 {main}
+  thrown in /home2/estivfbw/corporatesacademy.com/config/app.php on line 16
+[04-Apr-2025 18:27:39 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home2/estivfbw/corporatesacademy.com/config/app.php:16
+Stack trace:
+#0 {main}
+  thrown in /home2/estivfbw/corporatesacademy.com/config/app.php on line 16
+[05-Apr-2025 11:28:23 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home2/estivfbw/corporatesacademy.com/config/app.php:16
+Stack trace:
+#0 {main}
+  thrown in /home2/estivfbw/corporatesacademy.com/config/app.php on line 16
+[05-Apr-2025 23:22:47 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home2/estivfbw/corporatesacademy.com/config/app.php:16
+Stack trace:
+#0 {main}
+  thrown in /home2/estivfbw/corporatesacademy.com/config/app.php on line 16
+[06-Apr-2025 18:53:40 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home2/estivfbw/corporatesacademy.com/config/app.php:16
+Stack trace:
+#0 {main}
+  thrown in /home2/estivfbw/corporatesacademy.com/config/app.php on line 16
+[09-Apr-2025 13:17:28 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home2/estivfbw/corporatesacademy.com/config/app.php:16
+Stack trace:
+#0 {main}
+  thrown in /home2/estivfbw/corporatesacademy.com/config/app.php on line 16
+[01-Jan-2026 05:59:38 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home2/estivfbw/corporatesacademy.com/config/database.php:19
+Stack trace:
+#0 {main}
+  thrown in /home2/estivfbw/corporatesacademy.com/config/database.php on line 19
+[01-Jan-2026 06:05:19 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home2/estivfbw/corporatesacademy.com/config/database.php:19
+Stack trace:
+#0 {main}
+  thrown in /home2/estivfbw/corporatesacademy.com/config/database.php on line 19
