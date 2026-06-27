@@ -22,7 +22,7 @@
     
 <div class="top-main-footer"><div class="container"><div class="row"><div class="col-md-12">
     <div class="web-descrip"><div class="footer-logo"><a href="{{url('/')}}">
-        <img src="{{asset('public/image/logo-academy.png')}}" alt="web logo" width="118" height="53">
+        <img src="{{asset('image/logo-academy.png')}}" alt="web logo" width="118" height="53">
 </a></div><div class="description"><p>Our mission is to bridge the skills gap in the IT industry by offering hands-on, industry-relevant training designed by experts. Whether you're an individual looking to boost your career or a corporation aiming to upskill your workforce, we provide flexible learning paths and cutting-edge resources to ensure your success in the tech world. At Corporates Academy, we are dedicated to providing top-notch IT education and training to professionals and organizations looking to enhance their technical expertise. As a forward-thinking startup, we specialize in delivering comprehensive courses and certifications in software development, testing, project management, and more.</p>
  </div></div>
 
@@ -319,7 +319,7 @@ if(!empty($coursesdetails)){ foreach($coursesdetails as $cfooter){
                      
                      
                     <div class="fixed"><a href="https://wa.me/918800182225" target="_blank" aria-label="Whatsup"><i class="fa fa-whatsapp fa-fw" style="color:#14D73F"></i>+91-8800182225</a></div>
-                    <div class="fixed"><a href="tel:+91-8800182225"><img src="{{asset('public/image/calls.png')}}" width="16" height="25" alt="rady to Call">+91-8800182225</a></div>
+                    <div class="fixed"><a href="tel:+91-8800182225"><img src="{{asset('image/calls.png')}}" width="16" height="25" alt="rady to Call">+91-8800182225</a></div>
                      
                 </div>
             </div>

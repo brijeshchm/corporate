@@ -7,9 +7,9 @@
 @endif
 <meta http-equiv="X-UA-Compatible" content="ie=edge">
 <meta name="csrf-token" content="<?php echo csrf_token(); ?>">
-<link rel="icon" href="{{asset('public/favicon.png')}}" type="image/ico">
+<link rel="icon" href="{{asset('favicon.png')}}" type="image/ico">
 
-<link rel="shortcut icon" href="{{asset('public/image/logo-academy.png')}}" type="image/png"/>
+<link rel="shortcut icon" href="{{asset('image/logo-academy.png')}}" type="image/png"/>
 <title>@yield('title')</title>
 <meta content="@yield('keyword')" name="keywords">
 <meta content="@yield('description')" name="description">
@@ -33,7 +33,7 @@
 <meta name="url" content="{{ URL::current() }}" />
 <meta name="DC.title" content="@yield('keyword')" />
 <meta name="twitter:card" content="summary">
-<meta name="twitter:image" content="{{asset('public/image/logo-academy.png')}}"><meta name="twitter:creator" content="" /><meta name="twitter:title" content=">@yield('title')" />
+<meta name="twitter:image" content="{{asset('image/logo-academy.png')}}"><meta name="twitter:creator" content="" /><meta name="twitter:title" content=">@yield('title')" />
 <meta name="twitter:description" content="@yield('description')" />
 <meta name="twitter:keywords" content="@yield('keyword')" />
 <meta name="twitter:url" content="{{ URL::current() }}" />
@@ -43,7 +43,7 @@
 <meta property="og:site_name" content="Corporates Academy" />
 <meta property="og:title" content=">@yield('title')" />
 <meta property="og:description" content="@yield('description')." />
-<meta property="og:image" content="{{asset('/public/image/logo-academy.png')}}" />
+<meta property="og:image" content="{{asset('/image/logo-academy.png')}}" />
 
 <meta name="distribution" content="global" /><meta name="geo.region" content="IN-UP" />
 <meta name="geo.placename" content="" /><meta name="geo.position" content="" /><meta name="ICBM" content="" />
@@ -52,7 +52,7 @@
 <meta name="robots" content="index, follow" />
 
 <meta name="Revisit-after" content="7 Days" /><link rel="stylesheet" type="text/css" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" async> 
-<link rel="stylesheet" type="text/css" href="{{asset('public/assests/css/bootstrap.css')}}" async><link rel="stylesheet" type="text/css" href="{{asset('public/css/front.css')}}" async><link rel="stylesheet" type="text/css" href="{{asset('public/assests/css/owl.carousel.css')}}" async>
+<link rel="stylesheet" type="text/css" href="{{asset('assests/css/bootstrap.css')}}" async><link rel="stylesheet" type="text/css" href="{{asset('css/front.css')}}" async><link rel="stylesheet" type="text/css" href="{{asset('assests/css/owl.carousel.css')}}" async>
 
  
  
@@ -119,13 +119,13 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 			document.getElementById("ButtonallCrsEvents").classList.remove("mystyle");
 }
 
-</script><script src="{{asset('public/assests/js/jquery.js')}}" ></script><script src="{{asset('public/assests/js/owl.carousel.js')}}"></script><script src="{{asset('public/assests/js/popper.js')}}"></script>
-<script src="{{asset('public/assests/js/bootstrap.js')}}"></script><script src="{{asset('public/js/jquery-ui.js')}}"> </script>
+</script><script src="{{asset('assests/js/jquery.js')}}" ></script><script src="{{asset('assests/js/owl.carousel.js')}}"></script><script src="{{asset('assests/js/popper.js')}}"></script>
+<script src="{{asset('assests/js/bootstrap.js')}}"></script><script src="{{asset('js/jquery-ui.js')}}"> </script>
 
  
- <?php if(Request::segment(1) == 'courses'){ ?> <script src="{{asset('public/js/all100.js')}}"></script> <?php  }else if(Request::segment(1) == 'master-program'){ ?>
-<script src="{{asset('public/js/c100.js')}}"></script>	<?php } if(Request::segment(1) == 'corporate'){ ?><script src="{{asset('public/js/sc100.js')}}"></script>	
-	  <?php } ?> <script src="{{asset('public/js/s100.js')}}"></script>
+ <?php if(Request::segment(1) == 'courses'){ ?> <script src="{{asset('js/all100.js')}}"></script> <?php  }else if(Request::segment(1) == 'master-program'){ ?>
+<script src="{{asset('js/c100.js')}}"></script>	<?php } if(Request::segment(1) == 'corporate'){ ?><script src="{{asset('js/sc100.js')}}"></script>	
+	  <?php } ?> <script src="{{asset('js/s100.js')}}"></script>
 	  
 <script>var d = document.getElementById('fix-rig');
 function openrig() { document.getElementById("mySidepanel").style.right = "0px"; d.style.display = "none";}	function closeNav() { document.getElementById("mySidepanel").style.right = "-250px";
